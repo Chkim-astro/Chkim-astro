@@ -1,9 +1,9 @@
 <h1 align="center">I'm Chanho Kim</h1>
 - 🔭 I'm majoring in High-Energy Astrophysics. **Pulsar Wind Nebulae, Supernova Remnants**
 
+<h3 align="left">Connect with me:</h3>
 - 📫 My e-main **chkim3867@chungbuk.ac.kr**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
