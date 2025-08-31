@@ -7,6 +7,13 @@
 ## <h3 align="left">My e-mail:</h3>
 - 📫 **chkim3867@chungbuk.ac.kr** <br />
 
+## <h1 align="left">Journal paper</h1>
+
+
+## <h1 align="left">Presentation</h1>
+
+
+
 <p align="left">
 </p>
 
